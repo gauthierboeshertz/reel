@@ -1,0 +1,17 @@
+nepisodes: 5000
+seed: 1
+max_steps: 2000
+device: cpu
+policy_lr: 0.01
+value_lr: 0.01
+use_wandb: False
+discount: 0.99
+nUnits: [32,32]
+num_eval_episodes: 0
+eval_freq: 20
+num_policy_epochs: 20
+num_value_epochs: 20
+clip_ratio: 0.2
+batch_size: 1024
+
+

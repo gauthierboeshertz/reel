@@ -1,0 +1,21 @@
+epsilon: 0.99
+e_max_step: 200
+min_e: 0.01
+gamma: 0.95
+alpha: 0.9
+nepisodes: 500
+seed: 1
+max_steps: 500
+batch_size: 128
+device: cpu
+memorysize: 10000
+lr: 0.01
+use_wandb: False
+nUnits: [32,32]
+ddqn_update_freq: 100
+start_training_step: 50
+duel_net: False
+num_eval_episodes: 10
+eval_freq: 10
+
+

@@ -1,0 +1,6 @@
+epsilon: 0.1
+gamma: 0.9
+alpha: 0.9
+nrepeats: 1000
+seed: 1 
+max_steps: 100

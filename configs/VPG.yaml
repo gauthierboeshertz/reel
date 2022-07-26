@@ -1,0 +1,9 @@
+nepisodes: 5000
+seed: 1
+max_steps: 500
+device: cpu
+lr: 0.01
+use_wandb: False
+nUnits: [32]
+num_eval_episodes: 5
+eval_freq: 20
