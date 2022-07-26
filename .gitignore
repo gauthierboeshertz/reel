@@ -1,2 +1,5 @@
 logs/*
 gif/*
+**/__pycache__
+__pycache__
+
